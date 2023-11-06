@@ -1,1 +1,1 @@
-# cnc_drawing_machine
+# cnc_milling_machine
