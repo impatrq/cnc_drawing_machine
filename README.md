@@ -8,13 +8,9 @@
 
 | Página web |
 |------------|
-|lINK DE LA PAGINA WEB|
-|Email |
-|lINK DE PARA CONTACTO|
+|Email | 
 |Instagram |  
-|lINK DE INSTA|
 |LinkeDIn |
-|lINK DE Linke|
 
 
 
@@ -27,6 +23,9 @@ CNC Milling Machine: CNC significa control numerico por computadora, es decir qu
 El funcionamiento de la CNC es un proceso simple de entender pero a su vez complejo, este tiene como base el programa Mach3, subimos un archivo tipo DXF y R12 el cual, se puede llegar a vizaulisar en el progama como se veria, una vez subida la imagen, solo se debera configurar los limite o punto 0, una vez concretado el punto el progama se encarga de dar las instrucciones necesarias para el marcado o fresasdo de la maquina, una vez dada la instrucciones la maquina solo se encarga de hacer grabado, cortado o fresado para la imagen puesta.
 
 ## Infrastuctura/materiales Utilizados 
+
+La CNC tiene una infraestructura muy resistente y de buena calidad. La mayo parte de la infraestructura estaba en optimas condiciones de uso y con poco rasgos de daños al principio del año cuando iniciamos el proyecto.
+La infraeestructura de la CNC esta en su mayoria diseñada por la empresa Zucamor, la base hecha de metal solido, la mesa construida tambien por metal, 
 
 
 ## Integrantse del grupo 
