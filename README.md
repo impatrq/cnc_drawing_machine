@@ -29,3 +29,22 @@ La infraeestructura de la CNC esta en su mayoria diseñada por la empresa Zucamo
 
 
 ## Integrantse del grupo 
+
+-Cejas ramiro agustin
+DNI: 46.030.174 - Tel: 11 5946-8614
+
+-Cabrera martin tadeo 
+DNI: 45.812.906 Tel: 11 2260-3241
+
+-Amarilla Joaquin 
+DNI: 46.701.344 Tel: 11 4400-3314
+
+-Comisso Valentin
+DNI: 46,428.455 Tel:  11 5931-8106
+
+-Di virgilio Ivan
+DNI: 46.740.367 - Tel: 11 5812-7218
+
+-Romero Tomas 
+DNI: 47.904.673 - Tel: 11 2158-7226
+
