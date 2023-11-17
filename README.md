@@ -1,4 +1,4 @@
-<div align="center">
+8<div align="center">
 
 # CNC Miliing Machine 
 
@@ -24,8 +24,9 @@ El funcionamiento de la CNC es un proceso simple de entender pero a su vez compl
 
 ## Infrastuctura/materiales Utilizados 
 
-La CNC tiene una infraestructura muy resistente y de buena calidad. La mayo parte de la infraestructura estaba en optimas condiciones de uso y con poco rasgos de daños al principio del año cuando iniciamos el proyecto.
-La infraeestructura de la CNC esta en su mayoria diseñada por la empresa Zucamor, la base hecha de metal solido, la mesa construida tambien por metal, 
+La CNC tiene una infraestructura muy resistente y de buena calidad. La mayor parte de la infraestructura estaba en optimas condiciones de uso y con poco rasgos de daños al principio del año cuando iniciamos el proyecto.
+La infraeestructura de la CNC esta en su mayoria diseñada por la empresa Zucamor, el soporte hecho de metal solido, la mesa construida tambien por metal, con sus respectivos guias lineales para cada eje.
+Nuestro principal trabajo fue la restauracion,deteccion y mantenimiento de partes dañadas, ya se diseñando nuevas partes o la reparacion de estas para su futuro uso. Ademas de darle una nueva vida a la CNC con pintura antioxidante para conservar su color y darle una nueva cara a la maquina.
 
 
 ## Integrantse del grupo 
