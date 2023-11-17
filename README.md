@@ -8,9 +8,9 @@
 
 | Página web |
 |------------|
-|Email | 
-|Instagram |  
-|LinkeDIn |
+|Email cncproject2023@gmail.com |
+|Instagram cnc_project23 |
+|LinkeDIn Cnc Milling Machine Impa 2023 |
 
 
 
