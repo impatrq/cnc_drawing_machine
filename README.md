@@ -1,4 +1,4 @@
-8<div align="center">
+<div align="center">
 
 # CNC Miliing Machine 
 
