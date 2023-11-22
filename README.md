@@ -72,4 +72,4 @@ Linkedin: https://www.linkedin.com/in/tomas-romero-a1938329a?utm_source=share&ut
 ## Foto Grupal
 
 
-<img src="https://github.com/impatrq/cnc_drawing_machine/assets/80334283/31250d30-3c48-4abb-8e82-f4142d00d6dd" width="300" />
+<img src="https://github.com/impatrq/cnc_drawing_machine/assets/80334283/31250d30-3c48-4abb-8e82-f4142d00d6dd" heaight="500" width="300" />
