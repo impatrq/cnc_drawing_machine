@@ -69,7 +69,8 @@ Tel: 11 2158-7226
 Linkedin: https://www.linkedin.com/in/tomas-romero-a1938329a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
-## Foto Grupal
+## Nosotros
 
 
-<img src="https://github.com/impatrq/cnc_drawing_machine/assets/80334283/31250d30-3c48-4abb-8e82-f4142d00d6dd" height="500" width="500" />
+             <img src="https://github.com/impatrq/cnc_drawing_machine/assets/80334283/31250d30-3c48-4abb-8e82-f4142d00d6dd" height="500" width="500" />
+ 
