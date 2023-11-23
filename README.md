@@ -40,32 +40,43 @@ Linkedin:
 -Cabrera martin tadeo 
 
 DNI: 45.812.906 
+
 Tel: 11 2260-3241
+
 Linkedin:
+
 https://www.linkedin.com/in/martin-cabrera-2213b429a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 -Amarilla Joaquin 
 
 DNI: 46.701.344 
+
 Tel: 11 4400-3314
+
 Linkedin: https://www.linkedin.com/in/joaquin-amarilla-906a54173?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 -Comisso Valentin
 
 DNI: 46,428.455 
+
 Tel:  11 5931-8106
+
 Linkedin:
 
 -Di virgilio Ivan
 
 DNI: 46.740.367 
+
 Tel: 11 5812-7218
+
 Linkedin:
 
 -Romero Tomas 
 
 DNI: 46.904.673 
+
 Tel: 11 2158-7226
+
 Linkedin: https://www.linkedin.com/in/tomas-romero-a1938329a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 <div align="center">
