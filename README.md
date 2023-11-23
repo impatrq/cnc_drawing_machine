@@ -11,6 +11,7 @@
 |Email: cncproject2023@gmail.com |
 |Instagram: cnc_project23 |
 |LinkeDIn: Cnc Milling Machine Impa 2023 |
+|Pagina Web: 
 
 
 
@@ -60,7 +61,7 @@ Linkedin: https://www.linkedin.com/in/joaquin-amarilla-906a54173?utm_source=shar
 
 ### Comisso Valentin
 
-DNI: 46,428.455 
+DNI: 46.428.455 
 
 Tel:  11 5931-8106
 
