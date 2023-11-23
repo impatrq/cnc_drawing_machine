@@ -105,6 +105,8 @@ Linkedin: https://www.linkedin.com/in/tomas-romero-a1938329a?utm_source=share&ut
  
  ## Como Contactarnos
 
+<div align="left">
+
 * 📧 Email: cncproject2023@gmail.com
 
 * 🌐 Página Web: https://martincabrera162.wixsite.com/cnc-milling-project
