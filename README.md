@@ -6,12 +6,12 @@
 
 <div align="left">
 
-| Página web |
+| Contactanos |
 |------------|
 |Email: cncproject2023@gmail.com |
 |Instagram: cnc_project23 |
 |LinkeDIn: Cnc Milling Machine Impa 2023 |
-|Pagina Web: 
+|Pagina Web: https://martincabrera162.wixsite.com/cnc-milling-project |
 
 
 
