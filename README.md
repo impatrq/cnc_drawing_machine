@@ -103,3 +103,10 @@ Linkedin: https://www.linkedin.com/in/tomas-romero-a1938329a?utm_source=share&ut
 <img src="https://github.com/impatrq/cnc_drawing_machine/assets/80334283/31250d30-3c48-4abb-8e82-f4142d00d6dd" height="700" width="600" />
 
  
+ ## Como Contactarnos
+
+* 📧 Email: cncproject2023@gmail.com
+
+* 🌐 Página Web: https://martincabrera162.wixsite.com/cnc-milling-project
+
+* 📷 Instagram: @cnc_project23
