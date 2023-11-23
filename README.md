@@ -73,7 +73,7 @@ DNI: 46.740.367
 
 Tel: 11 5812-7218
 
-Linkedin:
+Linkedin: https://www.linkedin.com/in/ivan-di-virgilio-05bb202a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ### Romero Tomas 
 
