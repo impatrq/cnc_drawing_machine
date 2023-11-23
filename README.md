@@ -44,7 +44,7 @@ DNI: 46.030.174
 
 ✆ 11 5946-8614
 
---> 📧 
+--> 📧 Ramiroagustincejas@gmail.com
 
 Linkedin: 
 
@@ -54,7 +54,7 @@ DNI: 45.812.906
 
 ✆ 11 2260-3241
 
---> 📧
+--> 📧 martincabrera14@hotmail.com
 
 Linkedin: https://www.linkedin.com/in/martin-cabrera-2213b429a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
@@ -74,7 +74,7 @@ DNI: 46.428.455
 
 ✆ 11 5931-8106
 
---> 📧
+--> 📧 comissovalentin@gmail.com
 
 Linkedin:
 
