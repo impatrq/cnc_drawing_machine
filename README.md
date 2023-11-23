@@ -46,7 +46,7 @@ DNI: 46.030.174
 
 --> 📧 Ramiroagustincejas@gmail.com
 
-Linkedin: 
+Linkedin: www.linkedin.com/in/ramiro-cejas-20350629a
 
 ### Cabrera martin tadeo 
 
