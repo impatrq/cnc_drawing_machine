@@ -97,9 +97,6 @@ DNI: 46.904.673
 Linkedin: https://www.linkedin.com/in/tomas-romero-a1938329a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
-<div align="center">
-
-## Nosotros
 
 <div align="center">
  
