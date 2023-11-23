@@ -31,13 +31,18 @@ La infraeestructura de la CNC esta en su mayoria diseñada por la empresa Zucamo
 Nuestro principal trabajo fue la restauracion,deteccion y mantenimiento de partes dañadas, ya se diseñando nuevas partes o la reparacion de estas para su futuro uso. Ademas de darle una nueva vida a la CNC con pintura antioxidante para conservar su color y darle una nueva cara a la maquina.
 
 
-## Integrantse del grupo 
+## ¿Quienes somos?
+
+Somos un grupo de alumnos de E.E.S.T. N°7 "Taller Regional Quilmes" (IMPA) de la Especialidad de Tecnico Avionico
+
 
 ### Cejas ramiro agustin
 
 DNI: 46.030.174 
 
-Tel: 11 5946-8614
+✆ 11 5946-8614
+
+--> 📧 
 
 Linkedin: 
 
@@ -45,17 +50,19 @@ Linkedin:
 
 DNI: 45.812.906 
 
-Tel: 11 2260-3241
+✆ 11 2260-3241
 
-Linkedin:
+--> 📧
 
-https://www.linkedin.com/in/martin-cabrera-2213b429a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Linkedin: https://www.linkedin.com/in/martin-cabrera-2213b429a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ### Amarilla Joaquin 
 
 DNI: 46.701.344 
 
-Tel: 11 4400-3314
+✆ 11 4400-3314
+
+--> 📧
 
 Linkedin: https://www.linkedin.com/in/joaquin-amarilla-906a54173?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
@@ -63,7 +70,9 @@ Linkedin: https://www.linkedin.com/in/joaquin-amarilla-906a54173?utm_source=shar
 
 DNI: 46.428.455 
 
-Tel:  11 5931-8106
+✆ 11 5931-8106
+
+--> 📧
 
 Linkedin:
 
@@ -71,7 +80,9 @@ Linkedin:
 
 DNI: 46.740.367 
 
-Tel: 11 5812-7218
+✆ 11 5812-7218
+
+--> 📧
 
 Linkedin: https://www.linkedin.com/in/ivan-di-virgilio-05bb202a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
@@ -79,7 +90,9 @@ Linkedin: https://www.linkedin.com/in/ivan-di-virgilio-05bb202a0?utm_source=shar
 
 DNI: 46.904.673 
 
-Tel: 11 2158-7226
+✆ 11 2158-7226
+
+--> 📧
 
 Linkedin: https://www.linkedin.com/in/tomas-romero-a1938329a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
