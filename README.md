@@ -14,6 +14,7 @@
 
 
 
+
 ## ¿Qué es CNC?
 
 CNC Milling Machine: CNC significa control numerico por computadora, es decir que es capaz de medir, automatizar y controlar sus propios procesos, esta siendo una Maquina el cual su obejtivo es cortar, grabar y fresar en madera y aluminio
