@@ -31,13 +31,13 @@ Nuestro principal trabajo fue la restauracion,deteccion y mantenimiento de parte
 
 ## Integrantse del grupo 
 
--Cejas ramiro agustin
+### Cejas ramiro agustin
 
 DNI: 46.030.174 
 Tel: 11 5946-8614
 Linkedin: 
 
--Cabrera martin tadeo 
+### Cabrera martin tadeo 
 
 DNI: 45.812.906 
 
